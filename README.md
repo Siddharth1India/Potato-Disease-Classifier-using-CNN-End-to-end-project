@@ -40,3 +40,21 @@ As the application is easy and requires very less computing power, it is convini
 
 ![Image of catagories](./static/catagories.png)
 
+### Technical Information
+##### Model Building Technologies
+1. Tensorflow
+2. Model: Convolutional Neural Network
+3. Data Preprocessing: Data Augmentation (Using TF dataset)
+
+##### Backend Server
+1. Tensorflow Serving 
+2. FastAPI
+
+##### Model Optimization
+1. Quantization
+2. Tensorflow Lite
+
+##### Frontend
+1. ReactJS
+2. React Native (Possible)
+3. GCP for deployment (Not sure about this one)
