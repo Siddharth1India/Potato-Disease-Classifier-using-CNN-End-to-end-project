@@ -1,0 +1,7 @@
+numpy
+tensorflow-cpu
+fastapi
+uvicorn
+gunicorn
+uvloop
+httptools
